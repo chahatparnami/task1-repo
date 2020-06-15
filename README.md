@@ -37,7 +37,8 @@ Terraform file extension is “file_name.tf".
 
 **STEP 2: creating security group**
 
-A security group acts as a virtual firewall for your instance to control inbound and outbound traffic.So, we create a security group which allows a HTTP and SSH inbound traffic from all sources and similarly we create a outbound traffic rules to connect to all the IP's .
+A security group acts as a virtual firewall for your instance to control inbound and outbound traffic.So, we create a security group which allows a HTTP and SSH inbound traffic from all sources and similarly we create a outbound traffic rules to connect to all the IP's 
+
 **STEP 3:create key pair**
 
 Amazon EC2 uses public key cryptography to encrypt and decrypt login information. Public key cryptography uses a public key to encrypt a piece of data, and then the recipient uses the private key to decrypt the data. The public and private keys are known as a key pair.
