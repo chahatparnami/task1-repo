@@ -2,7 +2,7 @@ This lockdown gave us all an excellent opportunity to enhance our skills so i re
 
 This is the first task which is to create an entire architecture using AWS services and automating it using Terraform.
 
-[What is AWS?]
+**What is AWS?**
 Amazon Web Services is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.
 
 [What is Terraform?]
